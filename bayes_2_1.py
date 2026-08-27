@@ -1,7 +1,6 @@
 from thinkbayes import Pmf      # 확률 질량 함수: probability mass function
 
 # 분포 : 어떤 값, 그 값의 확률의 집합
-# 확률 질량 함수: probability mass function
 
 # 육면체 주사위의 결과 분포
 pmf = Pmf()
