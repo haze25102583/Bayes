@@ -1,3 +1,4 @@
+# Think Bayes 책에서 지원하는 모듈
 from __future__ import print_function
 
 """This file contains code for use with "Think Bayes",
